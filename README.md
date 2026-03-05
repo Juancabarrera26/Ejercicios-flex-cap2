@@ -14,7 +14,7 @@ Todos los programas fueron desarrollados y ejecutados utilizando Flex, GCC y Cyg
 
 <img width="501" height="270" alt="Captura de pantalla 2026-03-04 184430" src="https://github.com/user-attachments/assets/4267d3ef-e303-45de-acfb-6aecc01278fa" />
 
---
+---
 
 # Ejercicio 1 – Procesamiento de Líneas
 
@@ -67,15 +67,15 @@ Prueba
 
 <img width="303" height="85" alt="Captura de pantalla 2026-03-04 185323" src="https://github.com/user-attachments/assets/d863c384-8b90-4284-b8a8-604465ad74fc" />
 
---
+---
 
 <img width="455" height="301" alt="Captura de pantalla 2026-03-04 185259" src="https://github.com/user-attachments/assets/4db1f6ed-c35b-449b-8a21-6b52229dd378" />
 
---
+---
 
 <img width="354" height="221" alt="Captura de pantalla 2026-03-04 224052" src="https://github.com/user-attachments/assets/815d96d4-9834-433e-a89f-4df8d10ad793" />
 
---
+---
 
 # Ejercicio 2 – Contador de Palabras
 
@@ -120,11 +120,11 @@ Hola hola mundo Mundo
 ```
 <img width="287" height="255" alt="Captura de pantalla 2026-03-04 225437" src="https://github.com/user-attachments/assets/460badc5-f7f1-4135-ac79-5980b8c66ac5" />
 
---
+---
 
 <img width="278" height="285" alt="Captura de pantalla 2026-03-04 232914" src="https://github.com/user-attachments/assets/52e9dcf4-f346-4f86-a291-2de7443b00e5" />
 
---
+---
 
 
 # Ejercicio 3 – Sistema de Referencias Cruzadas
